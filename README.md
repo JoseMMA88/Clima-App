@@ -1,3 +1,5 @@
 # Clima-App
 
-![Untitled design](https://github.com/JoseMMA88/Clima-App/assets/33572798/aeaf2332-23d4-45b3-a324-8c146332c274)
+
+
+![clima-app](https://github.com/JoseMMA88/Clima-App/assets/33572798/7ad5d344-1601-4ea2-a236-024c3b502033)
